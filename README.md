@@ -1,5 +1,6 @@
 # The-Precision-Medicine-Ontology
 PMO：The Precision Medicine Ontology
+
 The Precision Medicine Ontology (PMO) is an open source ontological knowledge representation model about the data in precision medicine domain.
 It contains 10 top classes such as Biochemical Pathway, Anatomical Structure, Phenotype and Abnormality, Disease, Gene Product, Chemical and Drug, Mutation, Gene, Cell and Biologic Function, which are described by 93 semantic relationships between them. PMO is an extensible ontology aimed to integrate the terms in field of precision medicine, and all of the terms and relationships in PMO can apply in text mining or knowledge base building. The PMO can be accessed via downloading from the website, and which supports multiple data sharing formats include RDF, OWL and XML.
 
